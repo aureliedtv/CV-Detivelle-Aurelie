@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # **Aurélie Detivelle** ![Texte alternatif](/HTML/Images/DSCF8397.jpg)
 
 ## **Formation**
