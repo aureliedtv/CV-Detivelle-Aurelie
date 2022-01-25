@@ -15,7 +15,7 @@ Bac Littéraire, options mathématiques et grec ancien (Lycée François 1er, Le
 
 ### **Alternance**
 #### **2021-2023 :**
-Chargée de communication chez Boostars [Lien](https://www.boostars.com/), conciergerie normande
+Chargée de communication chez [Boostars](https://www.boostars.com/), conciergerie normande
 #### **2020-2021 :**
 Assistante chargée de communication à l'Amicale Laïque Aplemont Le Havre Basket
 
